@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  margin: 40px;
+}
+
+main {
+  padding: 20px 0 40px 40px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 10px;
+  background-color: #222;
+  color: white;
+}
+
+h1 {
+  color: rgb(24, 170, 238);
+}
+
+span {
+  color: lightblue;
+}
+
+input {
+  border-radius: 5px;
+  padding: 5px;
+}
+
+button {
+  border-radius: 5px;
+  padding: 6px 15px;
+  cursor: pointer;
+  background-color: white;
+  border: none;
+}
+
+button:hover {
+  background-color: rgb(234, 234, 234);
+}
+
+button:active {
+  background-color: white;
+}
